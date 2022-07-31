@@ -4,7 +4,7 @@ Function naming in progress using Q3A source https://github.com/id-Software/Quak
 
 Tested with IDA Freeware 7
 
-Binaries from June 2016, these are (hopefully) unlikely to change.
+Binaries from 2016 (v1069), these are (hopefully) unlikely to change.
 
 https://steamdb.info/depot/349091/
 
